@@ -29,7 +29,7 @@ Berikut adalah tahapan kunci yang dilakukan dalam proyek ini:
 ### 📊 Penerapan Algoritma Clustering (K-Means): 
 -   Menentukan jumlah cluster yang optimal (dalam kasus ini, 4 cluster).
 -   Melatih model K-Means pada data yang telah diproses untuk mengelompokkan pelanggan.
--   
+
 ### 🎨 Analisis & Visualisasi Hasil Clustering: 
 -   Menambahkan label cluster yang dihasilkan ke dataset asli untuk analisis lebih lanjut.
 -   Menganalisis karakteristik setiap cluster (misal: rata-rata amount, frekuensi, tipe transaksi dominan di setiap cluster) untuk memahami profil segmen pelanggan.
