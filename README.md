@@ -13,8 +13,9 @@ Proyek ini menggunakan Bank Transaction Dataset untuk menganalisis dan mengelomp
 ## ✨ Fitur Utama Proyek 
 Berikut adalah tahapan kunci yang dilakukan dalam proyek ini:
 
-1. Pemuatan & Pemahaman Data: 📂 
-- Memuat dataset dan memahami struktur awal serta tipe datanya.
+### Pemuatan & Pemahaman Data: 📂 
+Memuat dataset dan memahami struktur awal serta tipe datanya.
+
 2. Eksplorasi Data (EDA) Transaksi: 🔍
 - Menganalisis distribusi amount, transaction_type, dan customer_id.
 - Memvisualisasikan pola transaksi seiring waktu untuk menemukan tren.
